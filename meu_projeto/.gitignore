@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Django
+*.sqlite3
+db.sqlite3
+/media
+/staticfiles
+*.pot
+*.mo
+
+# Environments
+.env
+.env.*
+*.env
+venv/
+env/
+ENV/
+.envrc
+
+# VSCode settings
+.vscode/
+
+# Mac/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# Pytest / Coverage
+htmlcov/
+.coverage
+.tox/
+.pytest_cache/
