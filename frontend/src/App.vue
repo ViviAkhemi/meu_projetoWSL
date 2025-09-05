@@ -18,9 +18,9 @@
     </ul>
     
     <div v-if="selected !== null" class="feedback">
-      <p v-if="isCorrect(selected)">Muito bem!!! Vamos para o próximo desafio 🎉</p>
+      <p v-if="isCorrect(selected)">Muito bem!!! Você ganhou 10 estrelas. <br> Vamos para o próximo desafio 🎉</p>
       <p v-else>Boa tentativa, continue praticando!</p>
-      <button @click="nextQuestion">Próxima ficha</button>
+      <button @click="nextQuestion">Próximo desafio</button>
     </div>
   </div>
 </template>
