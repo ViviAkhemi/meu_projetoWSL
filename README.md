@@ -1,4 +1,4 @@
-# MVP SecurePlay - Versão Escalável
+# MVP SecurePlay - Versão Integrada
 
 Projeto gamificado de segurança digital com:
 
