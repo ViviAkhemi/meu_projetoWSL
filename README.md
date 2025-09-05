@@ -4,7 +4,7 @@ Este repositório tem como objetivo fornecer recursos educacionais.
 Por favor, utilize-o de forma responsável e respeitando as limitações de uso para fins não comerciais.
 
 
-# 🔐 MVPSECUREPLAY
+# 🔐 MVP_SecurePlay
 
 Plataforma gamificada para treinamento em **segurança da informação** voltada a colaboradores corporativos, com foco em níveis **Leigo** e **Iniciante**. Criado com Django (backend) e Vue.js (frontend), usando Docker e PostgreSQL.
 
